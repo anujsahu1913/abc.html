@@ -1,2 +1,0 @@
-# abc.html
-learning javascript
